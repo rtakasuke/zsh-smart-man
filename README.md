@@ -1,3 +1,5 @@
+![Lint](https://github.com/rtakasuke/zsh-smart-man/workflows/Lint/badge.svg)
+
 # zsh-smart-man
 Zsh plugin for Smart `man` command.  
 If manual entry no exists, it will display `Usage` instead.
